@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+
+.one{
+    background-color: pink;
+}
+
+#two{
+    color: blue;
+    font-size: 3em;
+}
+
+.three{
+    background-color: pink;
+    font-size: 2em;
+}
+
+#four{
+    background-color: greenyellow;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.five{
+    background-color: pink;
+    font-size: 1.2em;
+}
