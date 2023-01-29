@@ -1,0 +1,14 @@
+.one, .two{
+    font-family: 'Helvetica';
+    font-size: 3em;
+}
+
+.one{
+    background-color: black;
+    color: white;
+
+}
+
+.two{
+    background-color: yellow;
+}
